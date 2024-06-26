@@ -1,0 +1,350 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/dashboard.css">
+    <!-- ICONS -->
+    <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.css">
+    <link href="assets/fontawesome/css/brands.css" rel="stylesheet" />
+    <link href="assets/fontawesome/css/solid.css" rel="stylesheet" />
+    <!--JAVASCRIPT-->
+    <script src="assets/js/script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+    <script src="assets/js/dashboard.js" defer></script>
+
+    <title>21 Pizza CasaManco</title>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="container">
+            <img src="assets/img/logo2.png" alt="Logo Pizza 21 CasaManco" style="width: 300px;">
+            <button class="toggle-button mobile-toggle">&#9776;</button>
+        </div>
+    </nav>
+
+    <div class="container">
+        <aside class="sidebar">
+            <ul>
+                <li><a href="index.html"><i class="fa-solid fa-fw fa-home"></i> <b>Main Page</b></a></li>
+                <li><a href="dashboard.html"><i class="fa-solid fa-fw fa-gauge-high"></i> <b>Dashboard</b></a></li>
+                <li><a href="menupizza.html"><i class="fa-solid fa-fw fa-pizza-slice"></i> <b>Menu Pizza</b></a></li>
+                <li><a href="ourteam.html"><i class="fa-solid fa-fw fa-users-line"></i> <b>Our Team</b></a></li>
+            </ul>
+        </aside>
+    </div>
+
+    <section class="total">
+        <h2>Dashboard</h2>
+        <div class="card-total">
+            <div>
+                <h3>Total Income</h3>
+                <span id="total-income"></span>
+            </div>
+        </div>
+        <div class="card-total">
+            <div>
+                <h3>Total Orders</h3>
+                <span id="total-order"></span>
+            </div>
+        </div>
+    </section>
+
+    <section class="filter">
+        <div class="dropdown">
+            <button onclick="toggleDropdown('myDropdown')" class="dropbtn">FILTER MONTH
+                <i class="fas fa-caret-down" id="pad"></i>
+            </button>
+            <!-- Filter Cara 1 Ambil value yang sesuai didalam file json  -->
+            <!-- Contohnya ada Value januari nah script kita cari tuh kolom month yang namanya januari -->
+            <!-- Fyi caluenya case sensitif ya.. klo ga mau case sensitif bisa di atur di script -->
+            <!-- Ada cara lain selain define value yaitu ambil langsung datanya dari file jadi ga perlu takut typo ada di file FilterOrder2 -->
+            <div id="myDropdown" class="dropdown-content">
+                <label><input type="checkbox" class="monthCheckbox" value="Januari"> Januari</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Februari"> Februari</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Maret"> Maret</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="April"> April</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Mei"> Mei</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Juni"> Juni</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Juli"> Juli</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Agustus"> Agustus</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="September"> September</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Oktober"> Oktober</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="November"> November</label><br>
+                <label><input type="checkbox" class="monthCheckbox" value="Desember"> Desember</label><br>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button onclick="toggleDropdown('myDropdown1')" class="dropbtn">FILTER PIZZA
+                <i class="fas fa-caret-down" id="pad1"></i>
+            </button>
+            <div id="myDropdown1" class="dropdown-content">
+                <input type="text" placeholder="Type to search.." id="myInput1"
+                    onkeyup="filterFunction('myInput1', 'myDropdown1')"><br>
+                <input type="checkbox" id="pizza1" value="bbq_ckn_l">
+                <label for="pizza1">bbq_ckn_l</label><br>
+                <input type="checkbox" id="pizza2" value="bbq_ckn_m">
+                <label for="pizza2">bbq_ckn_m</label><br>
+                <input type="checkbox" id="pizza3" value="bbq_ckn_s">
+                <label for="pizza3">bbq_ckn_s</label><br>
+                <input type="checkbox" id="pizza6" value="big_meat_s">
+                <label for="pizza6">big_meat_s</label><br>
+                <input type="checkbox" id="pizza7" value="brie_carre_s">
+                <label for="pizza7">brie_carre_s</label><br>
+                <input type="checkbox" id="pizza8" value="calabrese_l">
+                <label for="pizza8">calabrese_l</label><br>
+                <input type="checkbox" id="pizza9" value="calabrese_m">
+                <label for="pizza9">calabrese_m</label><br>
+                <input type="checkbox" id="pizza10" value="calabrese_s">
+                <label for="pizza10">calabrese_s</label><br>
+                <input type="checkbox" id="pizza11" value="cali_ckn_l">
+                <label for="pizza11">cali_ckn_l</label><br>
+                <input type="checkbox" id="pizza12" value="cali_ckn_m">
+                <label for="pizza12">cali_ckn_m</label><br>
+                <input type="checkbox" id="pizza13" value="cali_ckn_s">
+                <label for="pizza13">cali_ckn_s</label><br>
+                <input type="checkbox" id="pizza14" value="ckn_alfredo_l">
+                <label for="pizza14">ckn_alfredo_l</label><br>
+                <input type="checkbox" id="pizza15" value="ckn_alfredo_m">
+                <label for="pizza15">ckn_alfredo_m</label><br>
+                <input type="checkbox" id="pizza16" value="ckn_alfredo_s">
+                <label for="pizza16">ckn_alfredo_s</label><br>
+                <input type="checkbox" id="pizza17" value="ckn_pesto_l">
+                <label for="pizza17">ckn_pesto_l</label><br>
+                <input type="checkbox" id="pizza18" value="ckn_pesto_m">
+                <label for="pizza18">ckn_pesto_m</label><br>
+                <input type="checkbox" id="pizza19" value="ckn_pesto_s">
+                <label for="pizza19">ckn_pesto_s</label><br>
+                <input type="checkbox" id="pizza20" value="classic_dlx_l">
+                <label for="pizza20">classic_dlx_l</label><br>
+                <input type="checkbox" id="pizza21" value="classic_dlx_m">
+                <label for="pizza21">classic_dlx_m</label><br>
+                <input type="checkbox" id="pizza22" value="classic_dlx_s">
+                <label for="pizza22">classic_dlx_s</label><br>
+                <input type="checkbox" id="pizza23" value="five_cheese_l">
+                <label for="pizza23">five_cheese_l</label><br>
+                <input type="checkbox" id="pizza24" value="five_cheese_m">
+                <label for="pizza24">five_cheese_m</label><br>
+                <input type="checkbox" id="pizza25" value="five_cheese_s">
+                <label for="pizza25">five_cheese_s</label><br>
+                <input type="checkbox" id="pizza26" value="green_garden_l">
+                <label for="pizza26">green_garden_l</label><br>
+                <input type="checkbox" id="pizza27" value="green_garden_m">
+                <label for="pizza27">green_garden_m</label><br>
+                <input type="checkbox" id="pizza28" value="green_garden_s">
+                <label for="pizza28">green_garden_s</label><br>
+                <input type="checkbox" id="pizza29" value="hawaiian_l">
+                <label for="pizza29">hawaiian_l</label><br>
+                <input type="checkbox" id="pizza30" value="hawaiian_m">
+                <label for="pizza30">hawaiian_m</label><br>
+                <input type="checkbox" id="pizza31" value="hawaiian_s">
+                <label for="pizza31">hawaiian_s</label><br>
+                <input type="checkbox" id="pizza32" value="ital_cpcllo_l">
+                <label for="pizza32">ital_cpcllo_l</label><br>
+                <input type="checkbox" id="pizza33" value="ital_cpcllo_m">
+                <label for="pizza33">ital_cpcllo_m</label><br>
+                <input type="checkbox" id="pizza34" value="ital_cpcllo_s">
+                <label for="pizza34">ital_cpcllo_s</label><br>
+                <input type="checkbox" id="pizza35" value="ital_supr_l">
+                <label for="pizza35">ital_supr_l</label><br>
+                <input type="checkbox" id="pizza36" value="ital_supr_m">
+                <label for="pizza36">ital_supr_m</label><br>
+                <input type="checkbox" id="pizza37" value="ital_supr_s">
+                <label for="pizza37">ital_supr_s</label><br>
+                <input type="checkbox" id="pizza38" value="ital_veggie_l">
+                <label for="pizza38">ital_veggie_l</label><br>
+                <input type="checkbox" id="pizza39" value="ital_veggie_m">
+                <label for="pizza39">ital_veggie_m</label><br>
+                <input type="checkbox" id="pizza40" value="ital_veggie_s">
+                <label for="pizza40">ital_veggie_s</label><br>
+                <input type="checkbox" id="pizza41" value="mediterraneo_l">
+                <label for="pizza41">mediterraneo_l</label><br>
+                <input type="checkbox" id="pizza42" value="mediterraneo_m">
+                <label for="pizza42">mediterraneo_m</label><br>
+                <input type="checkbox" id="pizza43" value="mediterraneo_s">
+                <label for="pizza43">mediterraneo_s</label><br>
+                <input type="checkbox" id="pizza44" value="mexicana_l">
+                <label for="pizza44">mexicana_l</label><br>
+                <input type="checkbox" id="pizza45" value="mexicana_m">
+                <label for="pizza45">mexicana_m</label><br>
+                <input type="checkbox" id="pizza46" value="mexicana_s">
+                <label for="pizza46">mexicana_s</label><br>
+                <input type="checkbox" id="pizza47" value="napolitana_l">
+                <label for="pizza47">napolitana_l</label><br>
+                <input type="checkbox" id="pizza48" value="napolitana_m">
+                <label for="pizza48">napolitana_m</label><br>
+                <input type="checkbox" id="pizza49" value="napolitana_s">
+                <label for="pizza49">napolitana_s</label><br>
+                <input type="checkbox" id="pizza50" value="pep_msh_pep_l">
+                <label for="pizza50">pep_msh_pep_l</label><br>
+                <input type="checkbox" id="pizza51" value="pep_msh_pep_m">
+                <label for="pizza51">pep_msh_pep_m</label><br>
+                <input type="checkbox" id="pizza52" value="pep_msh_pep_s">
+                <label for="pizza52">pep_msh_pep_s</label><br>
+                <input type="checkbox" id="pizza53" value="pepperoni_l">
+                <label for="pizza53">pepperoni_l</label><br>
+                <input type="checkbox" id="pizza54" value="pepperoni_m">
+                <label for="pizza54">pepperoni_m</label><br>
+                <input type="checkbox" id="pizza55" value="pepperoni_s">
+                <label for="pizza55">pepperoni_s</label><br>
+                <input type="checkbox" id="pizza56" value="peppr_salami_l">
+                <label for="pizza56">peppr_salami_l</label><br>
+                <input type="checkbox" id="pizza57" value="peppr_salami_m">
+                <label for="pizza57">peppr_salami_m</label><br>
+                <input type="checkbox" id="pizza58" value="peppr_salami_s">
+                <label for="pizza58">peppr_salami_s</label><br>
+                <input type="checkbox" id="pizza59" value="prsc_argla_l">
+                <label for="pizza59">prsc_argla_l</label><br>
+                <input type="checkbox" id="pizza60" value="prsc_argla_m">
+                <label for="pizza60">prsc_argla_m</label><br>
+                <input type="checkbox" id="pizza61" value="prsc_argla_s">
+                <label for="pizza61">prsc_argla_s</label><br>
+                <input type="checkbox" id="pizza62" value="sicilian_l">
+                <label for="pizza62">sicilian_l</label><br>
+                <input type="checkbox" id="pizza63" value="sicilian_m">
+                <label for="pizza63">sicilian_m</label><br>
+                <input type="checkbox" id="pizza64" value="sicilian_s">
+                <label for="pizza64">sicilian_s</label><br>
+                <input type="checkbox" id="pizza65" value="soppressata_l">
+                <label for="pizza65">soppressata_l</label><br>
+                <input type="checkbox" id="pizza66" value="soppressata_m">
+                <label for="pizza66">soppressata_m</label><br>
+                <input type="checkbox" id="pizza67" value="soppressata_s">
+                <label for="pizza67">soppressata_s</label><br>
+                <input type="checkbox" id="pizza68" value="southw_ckn_l">
+                <label for="pizza68">southw_ckn_l</label><br>
+                <input type="checkbox" id="pizza69" value="southw_ckn_m">
+                <label for="pizza69">southw_ckn_m</label><br>
+                <input type="checkbox" id="pizza70" value="southw_ckn_s">
+                <label for="pizza70">southw_ckn_s</label><br>
+                <input type="checkbox" id="pizza71" value="spicy_ital_l">
+                <label for="pizza71">spicy_ital_l</label><br>
+                <input type="checkbox" id="pizza72" value="spicy_ital_m">
+                <label for="pizza72">spicy_ital_m</label><br>
+                <input type="checkbox" id="pizza73" value="spicy_ital_s">
+                <label for="pizza73">spicy_ital_s</label><br>
+                <input type="checkbox" id="pizza74" value="spin_pesto_l">
+                <label for="pizza74">spin_pesto_l</label><br>
+                <input type="checkbox" id="pizza75" value="spin_pesto_m">
+                <label for="pizza75">spin_pesto_m</label><br>
+                <input type="checkbox" id="pizza76" value="spin_pesto_s">
+                <label for="pizza76">spin_pesto_s</label><br>
+                <input type="checkbox" id="pizza77" value="spinach_fet_l">
+                <label for="pizza77">spinach_fet_l</label><br>
+                <input type="checkbox" id="pizza78" value="spinach_fet_m">
+                <label for="pizza78">spinach_fet_m</label><br>
+                <input type="checkbox" id="pizza79" value="spinach_fet_s">
+                <label for="pizza79">spinach_fet_s</label><br>
+                <input type="checkbox" id="pizza80" value="spinach_supr_l">
+                <label for="pizza80">spinach_supr_l</label><br>
+                <input type="checkbox" id="pizza81" value="spinach_supr_m">
+                <label for="pizza81">spinach_supr_m</label><br>
+                <input type="checkbox" id="pizza82" value="spinach_supr_s">
+                <label for="pizza82">spinach_supr_s</label><br>
+                <input type="checkbox" id="pizza83" value="thai_ckn_l">
+                <label for="pizza83">thai_ckn_l</label><br>
+                <input type="checkbox" id="pizza84" value="thai_ckn_m">
+                <label for="pizza84">thai_ckn_m</label><br>
+                <input type="checkbox" id="pizza85" value="thai_ckn_s">
+                <label for="pizza85">thai_ckn_s</label><br>
+                <input type="checkbox" id="pizza86" value="the_ckn_l">
+                <label for="pizza86">the_ckn_l</label><br>
+                <input type="checkbox" id="pizza87" value="the_ckn_m">
+                <label for="pizza87">the_ckn_m</label><br>
+                <input type="checkbox" id="pizza88" value="the_ckn_s">
+                <label for="pizza88">the_ckn_s</label><br>
+                <input type="checkbox" id="pizza89" value="the_greek_l">
+                <label for="pizza89">the_greek_l</label><br>
+                <input type="checkbox" id="pizza90" value="the_greek_m">
+                <label for="pizza90">the_greek_m</label><br>
+                <input type="checkbox" id="pizza91" value="the_greek_s">
+                <label for="pizza91">the_greek_s</label><br>
+                <input type="checkbox" id="pizza92" value="the_greek_xl">
+                <label for="pizza92">the_greek_xl</label><br>
+                <input type="checkbox" id="pizza93" value="the_greek_xxl">
+                <label for="pizza93">the_greek_xxl</label><br>
+                <input type="checkbox" id="pizza94" value="veggie_veg_l">
+                <label for="pizza94">veggie_veg_l</label><br>
+                <input type="checkbox" id="pizza95" value="veggie_veg_m">
+                <label for="pizza95">veggie_veg_m</label><br>
+                <input type="checkbox" id="pizza96" value="veggie_veg_s">
+                <label for="pizza96">veggie_veg_s</label>
+            </div>
+        </div>
+    </section>
+
+    <section class="diagram-chart">
+        <div class="diagram">
+            <div class="total-orders">
+                <canvas id="chart-3"></canvas>
+            </div>
+            <div class="total-orders-pizza">
+                <canvas id="chart-2"></canvas>
+            </div>
+            <div class="total-income">
+                <div id="table-container"></div>
+                <canvas id="chart-1"></canvas>
+            </div>
+            <div class="total-pie">
+                <canvas id="piechart-1"></canvas>
+                <canvas id="piechart-2"></canvas>
+            </div>
+            <div class="total-line">
+                <canvas id="timeseries"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <section class="footer">
+        <img src="assets/img/logo2.png" alt="" width="300px">
+        <div class="column-4">
+            <div class="content-text" style="padding-right: 0;">
+                <p>
+                    21 Pizza CasaManco - Solusi Pizza Terbaik!
+                    Nikmati pizza tak tertandingi dengan solusi terbaik dari 21 Pizza CasaManco! Dapatkan:</p>
+                <ul>
+                    <li>Pizza lezat dengan beragam varian yang memikat selera.</li>
+                    <li>Bahan segar berkualitas tinggi untuk cita rasa yang luar biasa.</li>
+                    <li>Pelayanan ramah dan profesional yang membuat Anda merasa istimewa.</li>
+                    <li>Lingkungan nyaman untuk bersantap dengan kenikmatan.</li>
+                    <li>Harga terjangkau untuk nilai yang tak terkalahkan.</li>
+                </ul>
+            </div>
+            <div class="content-text" style="padding-left: 50px;">
+                <h3>Useful Links</h3>
+                <ul style="list-style-type: none; display: inline;">
+                    <li><a href="index.html">Main Page</a></li>
+                    <li><a href="dashboard.html">Dashboard</a></li>
+                    <li><a href="menupizza.html">Menu Pizza</a></li>
+                    <li><a href="ourteam.html">Our Team</a></li>
+                </ul>
+            </div>
+            <div class="content-text" style="padding-right: 0px;">
+                <h3>Contact Us</h3>
+                <ul style="list-style-type: none; display: inline;">
+                    <li>Phone : +62812 3456 7890</li>
+                    <li>Email : 21PizzaCasaManco@gmail.com</li>
+                    <a href="https://instagram.com"><i class="fa-brands fa-instagram fa-lg"></i></a>
+                    <a href="https://whatsapp.com"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
+                </ul>
+            </div>
+            <div class="content-text" style="padding-left: 50px;">
+                <h3>Our Address</h3>
+                <p>Jl. Surga No. 1 Isekai, I12345 <br> Alam Baka</p>
+            </div>
+        </div>
+        <footer style="text-align: center;">
+            <hr>
+            &copy; Copyright 21PizzaCasaManco All Rights Reserved
+        </footer>
+    </section>
+</body>
+
+</html>

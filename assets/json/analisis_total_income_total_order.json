@@ -1,0 +1,5446 @@
+[{
+  "pizza_id": "calabrese_s",
+  "month": "Mei",
+  "total_order": "1",
+  "total_income": "12.25"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Juni",
+  "total_order": "1",
+  "total_income": "12.75"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Februari",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Maret",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Mei",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Juli",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "September",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Oktober",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "November",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Desember",
+  "total_order": "1",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "September",
+  "total_order": "2",
+  "total_income": "24.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Februari",
+  "total_order": "2",
+  "total_income": "24.5"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Februari",
+  "total_order": "2",
+  "total_income": "25.5"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Juli",
+  "total_order": "2",
+  "total_income": "25.5"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Agustus",
+  "total_order": "2",
+  "total_income": "40.5"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Oktober",
+  "total_order": "2",
+  "total_income": "40.5"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "April",
+  "total_order": "2",
+  "total_income": "71.9"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Juni",
+  "total_order": "2",
+  "total_income": "71.9"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Juli",
+  "total_order": "3",
+  "total_income": "36.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Agustus",
+  "total_order": "3",
+  "total_income": "36.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Oktober",
+  "total_order": "3",
+  "total_income": "36.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "April",
+  "total_order": "3",
+  "total_income": "36.75"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Juli",
+  "total_order": "3",
+  "total_income": "36.75"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Agustus",
+  "total_order": "3",
+  "total_income": "36.75"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Maret",
+  "total_order": "3",
+  "total_income": "38.25"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Agustus",
+  "total_order": "3",
+  "total_income": "38.25"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Januari",
+  "total_order": "3",
+  "total_income": "60.75"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Februari",
+  "total_order": "3",
+  "total_income": "60.75"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "April",
+  "total_order": "3",
+  "total_income": "60.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "September",
+  "total_order": "3",
+  "total_income": "62.25"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "month": "Agustus",
+  "total_order": "3",
+  "total_income": "107.85000000000001"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Maret",
+  "total_order": "4",
+  "total_income": "48.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Januari",
+  "total_order": "4",
+  "total_income": "48.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Januari",
+  "total_order": "4",
+  "total_income": "49.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Maret",
+  "total_order": "4",
+  "total_income": "49.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Juni",
+  "total_order": "4",
+  "total_income": "49.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Maret",
+  "total_order": "4",
+  "total_income": "50.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "September",
+  "total_order": "4",
+  "total_income": "50.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Oktober",
+  "total_order": "4",
+  "total_income": "50.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Januari",
+  "total_order": "4",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "April",
+  "total_order": "4",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Mei",
+  "total_order": "4",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "September",
+  "total_order": "4",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Desember",
+  "total_order": "4",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Maret",
+  "total_order": "4",
+  "total_income": "64.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Februari",
+  "total_order": "4",
+  "total_income": "67.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Juni",
+  "total_order": "4",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Juli",
+  "total_order": "4",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "November",
+  "total_order": "4",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Desember",
+  "total_order": "4",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Januari",
+  "total_order": "4",
+  "total_income": "83.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Maret",
+  "total_order": "4",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Juli",
+  "total_order": "4",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Agustus",
+  "total_order": "4",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Mei",
+  "total_order": "5",
+  "total_income": "60.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Agustus",
+  "total_order": "5",
+  "total_income": "60.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "April",
+  "total_order": "5",
+  "total_income": "60.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Oktober",
+  "total_order": "5",
+  "total_income": "61.25"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "Desember",
+  "total_order": "5",
+  "total_income": "61.25"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Januari",
+  "total_order": "5",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Mei",
+  "total_order": "5",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Juni",
+  "total_order": "5",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "November",
+  "total_order": "5",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Oktober",
+  "total_order": "5",
+  "total_income": "80.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Juni",
+  "total_order": "5",
+  "total_income": "80.0"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Oktober",
+  "total_order": "5",
+  "total_income": "82.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "September",
+  "total_order": "5",
+  "total_income": "82.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Januari",
+  "total_order": "5",
+  "total_income": "83.75"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "September",
+  "total_order": "5",
+  "total_income": "101.25"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "September",
+  "total_order": "5",
+  "total_income": "101.25"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Januari",
+  "total_order": "5",
+  "total_income": "102.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Mei",
+  "total_order": "5",
+  "total_income": "102.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Oktober",
+  "total_order": "5",
+  "total_income": "102.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "April",
+  "total_order": "5",
+  "total_income": "103.75"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Desember",
+  "total_order": "5",
+  "total_income": "103.75"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Desember",
+  "total_order": "5",
+  "total_income": "105.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Januari",
+  "total_order": "6",
+  "total_income": "72.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Juni",
+  "total_order": "6",
+  "total_income": "72.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "November",
+  "total_order": "6",
+  "total_income": "72.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "September",
+  "total_order": "6",
+  "total_income": "73.5"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "Desember",
+  "total_order": "6",
+  "total_income": "76.5"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "November",
+  "total_order": "6",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Juli",
+  "total_order": "6",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Februari",
+  "total_order": "6",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Desember",
+  "total_order": "6",
+  "total_income": "99.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Februari",
+  "total_order": "6",
+  "total_income": "99.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Maret",
+  "total_order": "6",
+  "total_income": "99.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Maret",
+  "total_order": "6",
+  "total_income": "100.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Agustus",
+  "total_order": "6",
+  "total_income": "100.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Juni",
+  "total_order": "6",
+  "total_income": "121.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "September",
+  "total_order": "6",
+  "total_income": "123.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Agustus",
+  "total_order": "6",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "September",
+  "total_order": "6",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Oktober",
+  "total_order": "6",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "November",
+  "total_order": "6",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Februari",
+  "total_order": "6",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "November",
+  "total_order": "6",
+  "total_income": "126.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Desember",
+  "total_order": "7",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Mei",
+  "total_order": "7",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "November",
+  "total_order": "7",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "month": "November",
+  "total_order": "7",
+  "total_income": "85.75"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Agustus",
+  "total_order": "7",
+  "total_income": "87.5"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "September",
+  "total_order": "7",
+  "total_income": "87.5"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "September",
+  "total_order": "7",
+  "total_income": "89.25"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Desember",
+  "total_order": "7",
+  "total_income": "89.25"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "month": "November",
+  "total_order": "7",
+  "total_income": "89.25"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Mei",
+  "total_order": "7",
+  "total_income": "112.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Maret",
+  "total_order": "7",
+  "total_income": "112.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "September",
+  "total_order": "7",
+  "total_income": "112.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Januari",
+  "total_order": "7",
+  "total_income": "115.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Agustus",
+  "total_order": "7",
+  "total_income": "115.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Mei",
+  "total_order": "7",
+  "total_income": "117.25"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Oktober",
+  "total_order": "7",
+  "total_income": "141.75"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "November",
+  "total_order": "7",
+  "total_income": "141.75"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Juni",
+  "total_order": "7",
+  "total_income": "143.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Desember",
+  "total_order": "7",
+  "total_income": "143.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Februari",
+  "total_order": "7",
+  "total_income": "145.25"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "April",
+  "total_order": "7",
+  "total_income": "147.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Juni",
+  "total_order": "7",
+  "total_income": "147.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "April",
+  "total_order": "8",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Oktober",
+  "total_order": "8",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "November",
+  "total_order": "8",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Januari",
+  "total_order": "8",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Januari",
+  "total_order": "8",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Desember",
+  "total_order": "8",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Agustus",
+  "total_order": "8",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Maret",
+  "total_order": "8",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Oktober",
+  "total_order": "8",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "November",
+  "total_order": "8",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Desember",
+  "total_order": "8",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Februari",
+  "total_order": "8",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Februari",
+  "total_order": "8",
+  "total_income": "106.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Oktober",
+  "total_order": "8",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Desember",
+  "total_order": "8",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Mei",
+  "total_order": "8",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Juli",
+  "total_order": "8",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Juni",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Maret",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Juni",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Juni",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "September",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Desember",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Februari",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Juli",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "September",
+  "total_order": "8",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Februari",
+  "total_order": "8",
+  "total_income": "162.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Oktober",
+  "total_order": "8",
+  "total_income": "162.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "April",
+  "total_order": "8",
+  "total_income": "162.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Februari",
+  "total_order": "8",
+  "total_income": "164.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "November",
+  "total_order": "8",
+  "total_income": "164.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "April",
+  "total_order": "8",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Maret",
+  "total_order": "8",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Juni",
+  "total_order": "8",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "April",
+  "total_order": "8",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "September",
+  "total_order": "8",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Oktober",
+  "total_order": "8",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Februari",
+  "total_order": "9",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Juni",
+  "total_order": "9",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Agustus",
+  "total_order": "9",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Desember",
+  "total_order": "9",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "April",
+  "total_order": "9",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Agustus",
+  "total_order": "9",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "November",
+  "total_order": "9",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "September",
+  "total_order": "9",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "November",
+  "total_order": "9",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Desember",
+  "total_order": "9",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Agustus",
+  "total_order": "9",
+  "total_income": "114.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "November",
+  "total_order": "9",
+  "total_income": "114.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Juni",
+  "total_order": "9",
+  "total_income": "114.75"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Februari",
+  "total_order": "9",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Maret",
+  "total_order": "9",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "November",
+  "total_order": "9",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "April",
+  "total_order": "9",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Desember",
+  "total_order": "9",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Januari",
+  "total_order": "9",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Agustus",
+  "total_order": "9",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "April",
+  "total_order": "9",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "November",
+  "total_order": "9",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "November",
+  "total_order": "9",
+  "total_income": "150.75"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "September",
+  "total_order": "9",
+  "total_income": "157.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Juli",
+  "total_order": "9",
+  "total_income": "182.25"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Oktober",
+  "total_order": "9",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Februari",
+  "total_order": "9",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Agustus",
+  "total_order": "9",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Juni",
+  "total_order": "9",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Oktober",
+  "total_order": "9",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "mexicana_s",
+  "month": "Februari",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "April",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Januari",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Juni",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Maret",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "September",
+  "total_order": "10",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Februari",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Juli",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "November",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Januari",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Maret",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Juli",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Oktober",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Februari",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Maret",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "September",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Desember",
+  "total_order": "10",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "November",
+  "total_order": "10",
+  "total_income": "127.5"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Oktober",
+  "total_order": "10",
+  "total_income": "127.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Januari",
+  "total_order": "10",
+  "total_income": "132.5"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Juli",
+  "total_order": "10",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Juni",
+  "total_order": "10",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Desember",
+  "total_order": "10",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Februari",
+  "total_order": "10",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "November",
+  "total_order": "10",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Agustus",
+  "total_order": "10",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Desember",
+  "total_order": "10",
+  "total_income": "167.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "November",
+  "total_order": "10",
+  "total_income": "167.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Januari",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Agustus",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Desember",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "green_garden_l",
+  "month": "Mei",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Maret",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "September",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Oktober",
+  "total_order": "10",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Maret",
+  "total_order": "10",
+  "total_income": "205.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Maret",
+  "total_order": "10",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "April",
+  "total_order": "10",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Juni",
+  "total_order": "10",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Juli",
+  "total_order": "10",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Januari",
+  "total_order": "10",
+  "total_income": "210.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "September",
+  "total_order": "11",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Desember",
+  "total_order": "11",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "April",
+  "total_order": "11",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "April",
+  "total_order": "11",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Oktober",
+  "total_order": "11",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Juni",
+  "total_order": "11",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "April",
+  "total_order": "11",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Agustus",
+  "total_order": "11",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Mei",
+  "total_order": "11",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Agustus",
+  "total_order": "11",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "November",
+  "total_order": "11",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "November",
+  "total_order": "11",
+  "total_income": "145.75"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "159.5"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Desember",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "April",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "September",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Oktober",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Oktober",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "September",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Januari",
+  "total_order": "11",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "April",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Maret",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Mei",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Oktober",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "April",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Mei",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Juni",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Desember",
+  "total_order": "11",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "184.25"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Januari",
+  "total_order": "11",
+  "total_income": "192.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Februari",
+  "total_order": "11",
+  "total_income": "192.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Juli",
+  "total_order": "11",
+  "total_income": "222.75"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Agustus",
+  "total_order": "11",
+  "total_income": "222.75"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "September",
+  "total_order": "11",
+  "total_income": "228.25"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Maret",
+  "total_order": "11",
+  "total_income": "228.25"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Maret",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "April",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Mei",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Mei",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "April",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Oktober",
+  "total_order": "12",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Agustus",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Januari",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Februari",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Agustus",
+  "total_order": "12",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Agustus",
+  "total_order": "12",
+  "total_income": "174.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "November",
+  "total_order": "12",
+  "total_income": "174.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "November",
+  "total_order": "12",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Agustus",
+  "total_order": "12",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "November",
+  "total_order": "12",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Oktober",
+  "total_order": "12",
+  "total_income": "195.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Februari",
+  "total_order": "12",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "November",
+  "total_order": "12",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "November",
+  "total_order": "12",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Januari",
+  "total_order": "12",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "April",
+  "total_order": "12",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "Maret",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "month": "April",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Agustus",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "April",
+  "total_order": "12",
+  "total_income": "246.0"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Maret",
+  "total_order": "12",
+  "total_income": "246.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Mei",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Juli",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Mei",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Juni",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Mei",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Februari",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Oktober",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "September",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "November",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Desember",
+  "total_order": "12",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Mei",
+  "total_order": "12",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Maret",
+  "total_order": "13",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Juli",
+  "total_order": "13",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Juni",
+  "total_order": "13",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Agustus",
+  "total_order": "13",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Juni",
+  "total_order": "13",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Februari",
+  "total_order": "13",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "month": "Agustus",
+  "total_order": "13",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Maret",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Desember",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Juni",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Maret",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Mei",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Januari",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Mei",
+  "total_order": "13",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Desember",
+  "total_order": "13",
+  "total_income": "172.25"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Juli",
+  "total_order": "13",
+  "total_income": "188.5"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Juni",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Maret",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Mei",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "September",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Februari",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "214.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "214.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "214.5"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Maret",
+  "total_order": "13",
+  "total_income": "227.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "April",
+  "total_order": "13",
+  "total_income": "227.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Januari",
+  "total_order": "13",
+  "total_income": "263.25"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Mei",
+  "total_order": "13",
+  "total_income": "263.25"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Juli",
+  "total_order": "13",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "month": "Agustus",
+  "total_order": "13",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Februari",
+  "total_order": "13",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Juli",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Agustus",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Juli",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Oktober",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Desember",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "month": "Juli",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Januari",
+  "total_order": "13",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "month": "Februari",
+  "total_order": "13",
+  "total_income": "273.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Januari",
+  "total_order": "13",
+  "total_income": "307.45"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "September",
+  "total_order": "13",
+  "total_income": "307.45"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Agustus",
+  "total_order": "13",
+  "total_income": "307.45000000000005"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Oktober",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Desember",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Maret",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Juli",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Oktober",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Agustus",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Oktober",
+  "total_order": "14",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Mei",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "September",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Oktober",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Oktober",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Juni",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Januari",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Januari",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Agustus",
+  "total_order": "14",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Januari",
+  "total_order": "14",
+  "total_income": "178.5"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "April",
+  "total_order": "14",
+  "total_income": "178.5"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Juni",
+  "total_order": "14",
+  "total_income": "178.5"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Maret",
+  "total_order": "14",
+  "total_income": "203.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Juni",
+  "total_order": "14",
+  "total_income": "203.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Desember",
+  "total_order": "14",
+  "total_income": "203.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Mei",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Juli",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Maret",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "April",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Desember",
+  "total_order": "14",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Februari",
+  "total_order": "14",
+  "total_income": "227.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Maret",
+  "total_order": "14",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "April",
+  "total_order": "14",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "April",
+  "total_order": "14",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Februari",
+  "total_order": "14",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Agustus",
+  "total_order": "14",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Agustus",
+  "total_order": "14",
+  "total_income": "234.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "234.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Juli",
+  "total_order": "14",
+  "total_income": "245.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "245.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Desember",
+  "total_order": "14",
+  "total_income": "245.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Februari",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Agustus",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "September",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Mei",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "September",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Februari",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "287.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Februari",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Desember",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Oktober",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "November",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Januari",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Mei",
+  "total_order": "14",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Desember",
+  "total_order": "14",
+  "total_income": "331.09999999999997"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Januari",
+  "total_order": "15",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "November",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "April",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Februari",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "September",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "month": "Februari",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Februari",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Desember",
+  "total_order": "15",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Maret",
+  "total_order": "15",
+  "total_income": "187.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Maret",
+  "total_order": "15",
+  "total_income": "187.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "April",
+  "total_order": "15",
+  "total_income": "187.5"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "September",
+  "total_order": "15",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "September",
+  "total_order": "15",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "April",
+  "total_order": "15",
+  "total_income": "217.5"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "217.5"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Juni",
+  "total_order": "15",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Juli",
+  "total_order": "15",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Februari",
+  "total_order": "15",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Januari",
+  "total_order": "15",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "243.75"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Februari",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Agustus",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "month": "Juli",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "month": "Juli",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Maret",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Mei",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "month": "Oktober",
+  "total_order": "15",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "April",
+  "total_order": "15",
+  "total_income": "303.75"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Desember",
+  "total_order": "15",
+  "total_income": "307.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Agustus",
+  "total_order": "15",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Maret",
+  "total_order": "15",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "November",
+  "total_order": "15",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Maret",
+  "total_order": "15",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Februari",
+  "total_order": "15",
+  "total_income": "354.75"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Juni",
+  "total_order": "16",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "September",
+  "total_order": "16",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Agustus",
+  "total_order": "16",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Desember",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Juni",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "November",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "November",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Juni",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "month": "Agustus",
+  "total_order": "16",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "November",
+  "total_order": "16",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Juli",
+  "total_order": "16",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Mei",
+  "total_order": "16",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Juli",
+  "total_order": "16",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "November",
+  "total_order": "16",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Mei",
+  "total_order": "16",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Oktober",
+  "total_order": "16",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Maret",
+  "total_order": "16",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "September",
+  "total_order": "16",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "September",
+  "total_order": "16",
+  "total_income": "212.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "232.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "256.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "April",
+  "total_order": "16",
+  "total_income": "256.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Desember",
+  "total_order": "16",
+  "total_income": "256.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "260.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Februari",
+  "total_order": "16",
+  "total_income": "260.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Februari",
+  "total_order": "16",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Mei",
+  "total_order": "16",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "November",
+  "total_order": "16",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Oktober",
+  "total_order": "16",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "September",
+  "total_order": "16",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Juni",
+  "total_order": "16",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Agustus",
+  "total_order": "16",
+  "total_income": "280.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Oktober",
+  "total_order": "16",
+  "total_income": "280.0"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Agustus",
+  "total_order": "16",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Oktober",
+  "total_order": "16",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Juli",
+  "total_order": "16",
+  "total_income": "328.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Oktober",
+  "total_order": "16",
+  "total_income": "328.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Maret",
+  "total_order": "16",
+  "total_income": "332.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "month": "Januari",
+  "total_order": "16",
+  "total_income": "332.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "month": "Agustus",
+  "total_order": "16",
+  "total_income": "332.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Mei",
+  "total_order": "16",
+  "total_income": "378.4"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Juni",
+  "total_order": "16",
+  "total_income": "408.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "September",
+  "total_order": "17",
+  "total_income": "187.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Januari",
+  "total_order": "17",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "month": "Juli",
+  "total_order": "17",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Februari",
+  "total_order": "17",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Juli",
+  "total_order": "17",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Februari",
+  "total_order": "17",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Agustus",
+  "total_order": "17",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Februari",
+  "total_order": "17",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Maret",
+  "total_order": "17",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "September",
+  "total_order": "17",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Desember",
+  "total_order": "17",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "month": "Juli",
+  "total_order": "17",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Januari",
+  "total_order": "17",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Maret",
+  "total_order": "17",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Agustus",
+  "total_order": "17",
+  "total_income": "225.25"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "250.75"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Juli",
+  "total_order": "17",
+  "total_income": "250.75"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Agustus",
+  "total_order": "17",
+  "total_income": "259.25"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Agustus",
+  "total_order": "17",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Agustus",
+  "total_order": "17",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Januari",
+  "total_order": "17",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Oktober",
+  "total_order": "17",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Desember",
+  "total_order": "17",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "month": "Agustus",
+  "total_order": "17",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Desember",
+  "total_order": "17",
+  "total_income": "276.25"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Januari",
+  "total_order": "17",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "November",
+  "total_order": "17",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Januari",
+  "total_order": "17",
+  "total_income": "284.75"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "September",
+  "total_order": "17",
+  "total_income": "284.75"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "297.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "month": "Juni",
+  "total_order": "17",
+  "total_income": "297.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Juni",
+  "total_order": "17",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "September",
+  "total_order": "17",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Januari",
+  "total_order": "17",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "November",
+  "total_order": "17",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "April",
+  "total_order": "17",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "April",
+  "total_order": "17",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Desember",
+  "total_order": "17",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "April",
+  "total_order": "17",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Mei",
+  "total_order": "17",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "November",
+  "total_order": "17",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Desember",
+  "total_order": "17",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Maret",
+  "total_order": "18",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Juli",
+  "total_order": "18",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Desember",
+  "total_order": "18",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "September",
+  "total_order": "18",
+  "total_income": "216.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Oktober",
+  "total_order": "18",
+  "total_income": "220.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "September",
+  "total_order": "18",
+  "total_income": "225.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "month": "Mei",
+  "total_order": "18",
+  "total_income": "225.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Februari",
+  "total_order": "18",
+  "total_income": "225.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Juli",
+  "total_order": "18",
+  "total_income": "229.5"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Mei",
+  "total_order": "18",
+  "total_income": "229.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Juni",
+  "total_order": "18",
+  "total_income": "238.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Oktober",
+  "total_order": "18",
+  "total_income": "238.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "September",
+  "total_order": "18",
+  "total_income": "274.5"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Februari",
+  "total_order": "18",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "month": "Januari",
+  "total_order": "18",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "Januari",
+  "total_order": "18",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Mei",
+  "total_order": "18",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Desember",
+  "total_order": "18",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Juni",
+  "total_order": "18",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Januari",
+  "total_order": "18",
+  "total_income": "297.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Juli",
+  "total_order": "18",
+  "total_income": "297.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Maret",
+  "total_order": "18",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Januari",
+  "total_order": "18",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "November",
+  "total_order": "18",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Februari",
+  "total_order": "18",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Mei",
+  "total_order": "18",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Oktober",
+  "total_order": "18",
+  "total_income": "364.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Januari",
+  "total_order": "18",
+  "total_income": "364.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Juni",
+  "total_order": "18",
+  "total_income": "364.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Agustus",
+  "total_order": "18",
+  "total_income": "369.0"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Juni",
+  "total_order": "18",
+  "total_income": "369.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Februari",
+  "total_order": "18",
+  "total_income": "369.0"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Januari",
+  "total_order": "18",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "April",
+  "total_order": "18",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Desember",
+  "total_order": "18",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "September",
+  "total_order": "18",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "April",
+  "total_order": "18",
+  "total_income": "459.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "November",
+  "total_order": "18",
+  "total_income": "459.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Oktober",
+  "total_order": "19",
+  "total_income": "209.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Maret",
+  "total_order": "19",
+  "total_income": "228.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Agustus",
+  "total_order": "19",
+  "total_income": "228.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Maret",
+  "total_order": "19",
+  "total_income": "237.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "month": "Desember",
+  "total_order": "19",
+  "total_income": "237.5"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Februari",
+  "total_order": "19",
+  "total_income": "242.25"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "April",
+  "total_order": "19",
+  "total_income": "242.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "month": "Juli",
+  "total_order": "19",
+  "total_income": "242.25"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "Mei",
+  "total_order": "19",
+  "total_income": "275.5"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "April",
+  "total_order": "19",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Desember",
+  "total_order": "19",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Januari",
+  "total_order": "19",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Februari",
+  "total_order": "19",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Juni",
+  "total_order": "19",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Juli",
+  "total_order": "19",
+  "total_income": "308.75"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "November",
+  "total_order": "19",
+  "total_income": "313.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Desember",
+  "total_order": "19",
+  "total_income": "313.5"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Juli",
+  "total_order": "19",
+  "total_income": "318.25"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Juni",
+  "total_order": "19",
+  "total_income": "384.75"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "month": "Juli",
+  "total_order": "19",
+  "total_income": "384.75"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Juli",
+  "total_order": "19",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "September",
+  "total_order": "19",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Januari",
+  "total_order": "19",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Agustus",
+  "total_order": "19",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "November",
+  "total_order": "19",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "Januari",
+  "total_order": "19",
+  "total_income": "394.25"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Juni",
+  "total_order": "19",
+  "total_income": "394.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "April",
+  "total_order": "19",
+  "total_income": "394.25"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Juni",
+  "total_order": "19",
+  "total_income": "449.34999999999985"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Februari",
+  "total_order": "19",
+  "total_income": "484.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Maret",
+  "total_order": "19",
+  "total_income": "484.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Mei",
+  "total_order": "19",
+  "total_income": "484.5"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Mei",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Juni",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Mei",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Januari",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Maret",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Juli",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Maret",
+  "total_order": "20",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Januari",
+  "total_order": "20",
+  "total_income": "250.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "Februari",
+  "total_order": "20",
+  "total_income": "250.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Mei",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Oktober",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Januari",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "Februari",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Juli",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "November",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "month": "Juli",
+  "total_order": "20",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "April",
+  "total_order": "20",
+  "total_income": "265.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "month": "September",
+  "total_order": "20",
+  "total_income": "290.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Februari",
+  "total_order": "20",
+  "total_income": "295.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "April",
+  "total_order": "20",
+  "total_income": "295.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Agustus",
+  "total_order": "20",
+  "total_income": "295.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Juni",
+  "total_order": "20",
+  "total_income": "305.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "September",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "month": "November",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Oktober",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "April",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Juli",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Oktober",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "month": "Juni",
+  "total_order": "20",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Maret",
+  "total_order": "20",
+  "total_income": "325.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Juni",
+  "total_order": "20",
+  "total_income": "325.0"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "April",
+  "total_order": "20",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Juni",
+  "total_order": "20",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Juni",
+  "total_order": "20",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Januari",
+  "total_order": "20",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "September",
+  "total_order": "20",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Februari",
+  "total_order": "20",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Agustus",
+  "total_order": "20",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Februari",
+  "total_order": "20",
+  "total_income": "405.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Januari",
+  "total_order": "20",
+  "total_income": "410.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Mei",
+  "total_order": "20",
+  "total_income": "410.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "April",
+  "total_order": "20",
+  "total_income": "415.0"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "month": "Februari",
+  "total_order": "20",
+  "total_income": "415.0"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Oktober",
+  "total_order": "20",
+  "total_income": "415.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Juli",
+  "total_order": "20",
+  "total_income": "472.99999999999983"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Agustus",
+  "total_order": "21",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "September",
+  "total_order": "21",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Februari",
+  "total_order": "21",
+  "total_income": "267.75"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Maret",
+  "total_order": "21",
+  "total_income": "278.25"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Maret",
+  "total_order": "21",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Desember",
+  "total_order": "21",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "September",
+  "total_order": "21",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Juli",
+  "total_order": "21",
+  "total_income": "341.25"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "September",
+  "total_order": "21",
+  "total_income": "341.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Mei",
+  "total_order": "21",
+  "total_income": "341.25"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Januari",
+  "total_order": "21",
+  "total_income": "346.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Agustus",
+  "total_order": "21",
+  "total_income": "346.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "September",
+  "total_order": "21",
+  "total_income": "346.5"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Juni",
+  "total_order": "21",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Juni",
+  "total_order": "21",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Desember",
+  "total_order": "21",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "April",
+  "total_order": "21",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Juli",
+  "total_order": "21",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Februari",
+  "total_order": "21",
+  "total_income": "425.25"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Desember",
+  "total_order": "21",
+  "total_income": "425.25"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "Oktober",
+  "total_order": "21",
+  "total_income": "430.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "September",
+  "total_order": "21",
+  "total_income": "430.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Juni",
+  "total_order": "21",
+  "total_income": "435.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Agustus",
+  "total_order": "21",
+  "total_income": "435.75"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Juni",
+  "total_order": "21",
+  "total_income": "435.75"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "April",
+  "total_order": "21",
+  "total_income": "496.64999999999981"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "April",
+  "total_order": "22",
+  "total_income": "242.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "Agustus",
+  "total_order": "22",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "month": "November",
+  "total_order": "22",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "Juli",
+  "total_order": "22",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "April",
+  "total_order": "22",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Mei",
+  "total_order": "22",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "month": "April",
+  "total_order": "22",
+  "total_income": "275.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "month": "Maret",
+  "total_order": "22",
+  "total_income": "275.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "November",
+  "total_order": "22",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Mei",
+  "total_order": "22",
+  "total_income": "291.5"
+}, {
+  "pizza_id": "mexicana_m",
+  "month": "Agustus",
+  "total_order": "22",
+  "total_income": "352.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Maret",
+  "total_order": "22",
+  "total_income": "352.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Juni",
+  "total_order": "22",
+  "total_income": "352.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Mei",
+  "total_order": "22",
+  "total_income": "357.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "month": "Juli",
+  "total_order": "22",
+  "total_income": "363.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "Desember",
+  "total_order": "22",
+  "total_income": "363.0"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Mei",
+  "total_order": "22",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Juli",
+  "total_order": "22",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Maret",
+  "total_order": "22",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Desember",
+  "total_order": "22",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Februari",
+  "total_order": "22",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "November",
+  "total_order": "22",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "month": "September",
+  "total_order": "22",
+  "total_income": "451.0"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Februari",
+  "total_order": "22",
+  "total_income": "456.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Mei",
+  "total_order": "22",
+  "total_income": "456.5"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Oktober",
+  "total_order": "22",
+  "total_income": "520.29999999999984"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "November",
+  "total_order": "22",
+  "total_income": "520.29999999999984"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Januari",
+  "total_order": "22",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "September",
+  "total_order": "22",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Desember",
+  "total_order": "22",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Februari",
+  "total_order": "23",
+  "total_income": "253.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "month": "April",
+  "total_order": "23",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "September",
+  "total_order": "23",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Januari",
+  "total_order": "23",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "November",
+  "total_order": "23",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Juni",
+  "total_order": "23",
+  "total_income": "281.75"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Desember",
+  "total_order": "23",
+  "total_income": "281.75"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "April",
+  "total_order": "23",
+  "total_income": "293.25"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "November",
+  "total_order": "23",
+  "total_income": "368.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Agustus",
+  "total_order": "23",
+  "total_income": "373.75"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "April",
+  "total_order": "23",
+  "total_income": "373.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "Maret",
+  "total_order": "23",
+  "total_income": "385.25"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "month": "September",
+  "total_order": "23",
+  "total_income": "385.25"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "April",
+  "total_order": "23",
+  "total_income": "385.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Juli",
+  "total_order": "23",
+  "total_income": "465.75"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Mei",
+  "total_order": "23",
+  "total_income": "465.75"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "November",
+  "total_order": "23",
+  "total_income": "465.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "month": "Juli",
+  "total_order": "23",
+  "total_income": "477.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "September",
+  "total_order": "23",
+  "total_income": "477.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Desember",
+  "total_order": "23",
+  "total_income": "477.25"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Desember",
+  "total_order": "24",
+  "total_income": "234.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Desember",
+  "total_order": "24",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Februari",
+  "total_order": "24",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Mei",
+  "total_order": "24",
+  "total_income": "294.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Februari",
+  "total_order": "24",
+  "total_income": "300.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "September",
+  "total_order": "24",
+  "total_income": "354.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Juli",
+  "total_order": "24",
+  "total_income": "366.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Agustus",
+  "total_order": "24",
+  "total_income": "390.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "September",
+  "total_order": "24",
+  "total_income": "390.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "month": "Oktober",
+  "total_order": "24",
+  "total_income": "402.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Oktober",
+  "total_order": "24",
+  "total_income": "486.0"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Januari",
+  "total_order": "24",
+  "total_income": "486.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Juni",
+  "total_order": "24",
+  "total_income": "492.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "November",
+  "total_order": "24",
+  "total_income": "492.0"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Juni",
+  "total_order": "24",
+  "total_income": "498.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "month": "September",
+  "total_order": "24",
+  "total_income": "498.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Oktober",
+  "total_order": "24",
+  "total_income": "612.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Mei",
+  "total_order": "25",
+  "total_income": "243.75"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Juni",
+  "total_order": "25",
+  "total_income": "275.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Desember",
+  "total_order": "25",
+  "total_income": "312.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "month": "Oktober",
+  "total_order": "25",
+  "total_income": "312.5"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Agustus",
+  "total_order": "25",
+  "total_income": "318.75"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "month": "Juni",
+  "total_order": "25",
+  "total_income": "318.75"
+}, {
+  "pizza_id": "hawaiian_m",
+  "month": "Juli",
+  "total_order": "25",
+  "total_income": "331.25"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Januari",
+  "total_order": "25",
+  "total_income": "368.75"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Maret",
+  "total_order": "25",
+  "total_income": "368.75"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Desember",
+  "total_order": "25",
+  "total_income": "368.75"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Agustus",
+  "total_order": "25",
+  "total_income": "400.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "Januari",
+  "total_order": "25",
+  "total_income": "406.25"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "April",
+  "total_order": "25",
+  "total_income": "406.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "November",
+  "total_order": "25",
+  "total_income": "406.25"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "month": "September",
+  "total_order": "25",
+  "total_income": "412.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Desember",
+  "total_order": "25",
+  "total_income": "418.75"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "April",
+  "total_order": "25",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Mei",
+  "total_order": "25",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Desember",
+  "total_order": "25",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "month": "Maret",
+  "total_order": "25",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Maret",
+  "total_order": "25",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Juli",
+  "total_order": "25",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Desember",
+  "total_order": "25",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "November",
+  "total_order": "25",
+  "total_income": "518.75"
+}, {
+  "pizza_id": "brie_carre_s",
+  "month": "Maret",
+  "total_order": "25",
+  "total_income": "591.24999999999977"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Mei",
+  "total_order": "26",
+  "total_income": "312.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Oktober",
+  "total_order": "26",
+  "total_income": "312.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Agustus",
+  "total_order": "26",
+  "total_income": "318.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "November",
+  "total_order": "26",
+  "total_income": "318.5"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "month": "April",
+  "total_order": "26",
+  "total_income": "331.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Mei",
+  "total_order": "26",
+  "total_income": "396.5"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Agustus",
+  "total_order": "26",
+  "total_income": "416.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "month": "Maret",
+  "total_order": "26",
+  "total_income": "416.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "month": "Maret",
+  "total_order": "26",
+  "total_income": "422.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Mei",
+  "total_order": "26",
+  "total_income": "435.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Juni",
+  "total_order": "26",
+  "total_income": "435.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "month": "Maret",
+  "total_order": "26",
+  "total_income": "526.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "month": "Maret",
+  "total_order": "26",
+  "total_income": "526.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Oktober",
+  "total_order": "26",
+  "total_income": "539.5"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Juli",
+  "total_order": "26",
+  "total_income": "539.5"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Agustus",
+  "total_order": "27",
+  "total_income": "263.25"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Oktober",
+  "total_order": "27",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "November",
+  "total_order": "27",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Desember",
+  "total_order": "27",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Desember",
+  "total_order": "27",
+  "total_income": "411.75"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "April",
+  "total_order": "27",
+  "total_income": "432.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Mei",
+  "total_order": "27",
+  "total_income": "432.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "April",
+  "total_order": "27",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Maret",
+  "total_order": "27",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Oktober",
+  "total_order": "27",
+  "total_income": "452.25"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "April",
+  "total_order": "27",
+  "total_income": "553.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Januari",
+  "total_order": "27",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Februari",
+  "total_order": "27",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "April",
+  "total_order": "27",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Agustus",
+  "total_order": "27",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Januari",
+  "total_order": "27",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Februari",
+  "total_order": "27",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Maret",
+  "total_order": "28",
+  "total_income": "273.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "Mei",
+  "total_order": "28",
+  "total_income": "308.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Januari",
+  "total_order": "28",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Juni",
+  "total_order": "28",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "April",
+  "total_order": "28",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "month": "Juli",
+  "total_order": "28",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "September",
+  "total_order": "28",
+  "total_income": "350.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "month": "Juni",
+  "total_order": "28",
+  "total_income": "357.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Juni",
+  "total_order": "28",
+  "total_income": "413.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "Oktober",
+  "total_order": "28",
+  "total_income": "413.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "month": "November",
+  "total_order": "28",
+  "total_income": "413.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "November",
+  "total_order": "28",
+  "total_income": "427.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Januari",
+  "total_order": "28",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Juli",
+  "total_order": "28",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "September",
+  "total_order": "28",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "month": "Agustus",
+  "total_order": "28",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "month": "November",
+  "total_order": "28",
+  "total_income": "455.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Juni",
+  "total_order": "28",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "September",
+  "total_order": "28",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Desember",
+  "total_order": "28",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Mei",
+  "total_order": "28",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "November",
+  "total_order": "28",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "April",
+  "total_order": "28",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "September",
+  "total_order": "28",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "month": "Agustus",
+  "total_order": "28",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Maret",
+  "total_order": "28",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Agustus",
+  "total_order": "28",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Maret",
+  "total_order": "28",
+  "total_income": "567.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "September",
+  "total_order": "28",
+  "total_income": "567.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "November",
+  "total_order": "28",
+  "total_income": "567.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Januari",
+  "total_order": "28",
+  "total_income": "574.0"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Maret",
+  "total_order": "28",
+  "total_income": "581.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Januari",
+  "total_order": "29",
+  "total_income": "282.75"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "November",
+  "total_order": "29",
+  "total_income": "282.75"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Maret",
+  "total_order": "29",
+  "total_income": "478.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "month": "Juli",
+  "total_order": "29",
+  "total_income": "478.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Desember",
+  "total_order": "29",
+  "total_income": "485.75"
+}, {
+  "pizza_id": "napolitana_l",
+  "month": "Februari",
+  "total_order": "29",
+  "total_income": "594.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "September",
+  "total_order": "29",
+  "total_income": "601.75"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Februari",
+  "total_order": "29",
+  "total_income": "601.75"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "November",
+  "total_order": "29",
+  "total_income": "601.75"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Juli",
+  "total_order": "29",
+  "total_income": "739.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "month": "Agustus",
+  "total_order": "29",
+  "total_income": "739.5"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "April",
+  "total_order": "30",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Oktober",
+  "total_order": "30",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "month": "November",
+  "total_order": "30",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Desember",
+  "total_order": "30",
+  "total_income": "360.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "month": "Juni",
+  "total_order": "30",
+  "total_income": "360.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Maret",
+  "total_order": "30",
+  "total_income": "367.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "April",
+  "total_order": "30",
+  "total_income": "367.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "September",
+  "total_order": "30",
+  "total_income": "367.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "April",
+  "total_order": "30",
+  "total_income": "457.5"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "month": "Februari",
+  "total_order": "30",
+  "total_income": "480.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Februari",
+  "total_order": "30",
+  "total_income": "495.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Mei",
+  "total_order": "30",
+  "total_income": "495.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Juni",
+  "total_order": "30",
+  "total_income": "615.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Desember",
+  "total_order": "30",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Agustus",
+  "total_order": "30",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Oktober",
+  "total_order": "30",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Maret",
+  "total_order": "30",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Maret",
+  "total_order": "31",
+  "total_income": "472.75"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Oktober",
+  "total_order": "31",
+  "total_income": "511.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Januari",
+  "total_order": "31",
+  "total_income": "519.25"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Mei",
+  "total_order": "31",
+  "total_income": "519.25"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Desember",
+  "total_order": "31",
+  "total_income": "627.75"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Oktober",
+  "total_order": "31",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Januari",
+  "total_order": "31",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Juli",
+  "total_order": "31",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Februari",
+  "total_order": "31",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "November",
+  "total_order": "32",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Mei",
+  "total_order": "32",
+  "total_income": "384.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Maret",
+  "total_order": "32",
+  "total_income": "400.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Januari",
+  "total_order": "32",
+  "total_income": "488.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Oktober",
+  "total_order": "32",
+  "total_income": "488.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Februari",
+  "total_order": "32",
+  "total_income": "528.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Oktober",
+  "total_order": "32",
+  "total_income": "528.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Desember",
+  "total_order": "32",
+  "total_income": "528.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Juni",
+  "total_order": "32",
+  "total_income": "648.0"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "September",
+  "total_order": "32",
+  "total_income": "664.0"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "September",
+  "total_order": "32",
+  "total_income": "664.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Maret",
+  "total_order": "33",
+  "total_income": "396.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Juli",
+  "total_order": "33",
+  "total_income": "404.25"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Juni",
+  "total_order": "33",
+  "total_income": "412.5"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Juli",
+  "total_order": "33",
+  "total_income": "412.5"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Januari",
+  "total_order": "33",
+  "total_income": "544.5"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Juli",
+  "total_order": "33",
+  "total_income": "544.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "April",
+  "total_order": "33",
+  "total_income": "552.75"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Januari",
+  "total_order": "33",
+  "total_income": "552.75"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Juli",
+  "total_order": "33",
+  "total_income": "552.75"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Mei",
+  "total_order": "33",
+  "total_income": "668.25"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Mei",
+  "total_order": "33",
+  "total_income": "676.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Maret",
+  "total_order": "33",
+  "total_income": "684.75"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Mei",
+  "total_order": "33",
+  "total_income": "684.75"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Oktober",
+  "total_order": "34",
+  "total_income": "357.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Oktober",
+  "total_order": "34",
+  "total_income": "544.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Desember",
+  "total_order": "34",
+  "total_income": "544.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "April",
+  "total_order": "34",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Agustus",
+  "total_order": "34",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Februari",
+  "total_order": "34",
+  "total_income": "569.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Juli",
+  "total_order": "34",
+  "total_income": "569.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "November",
+  "total_order": "34",
+  "total_income": "569.5"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "April",
+  "total_order": "34",
+  "total_income": "688.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Maret",
+  "total_order": "34",
+  "total_income": "697.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "month": "Agustus",
+  "total_order": "34",
+  "total_income": "697.0"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Oktober",
+  "total_order": "34",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Maret",
+  "total_order": "34",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "April",
+  "total_order": "34",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Desember",
+  "total_order": "34",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Januari",
+  "total_order": "35",
+  "total_income": "428.75"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Maret",
+  "total_order": "35",
+  "total_income": "577.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Juni",
+  "total_order": "35",
+  "total_income": "586.25"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Oktober",
+  "total_order": "35",
+  "total_income": "586.25"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Februari",
+  "total_order": "35",
+  "total_income": "726.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Juni",
+  "total_order": "35",
+  "total_income": "726.25"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "September",
+  "total_order": "35",
+  "total_income": "726.25"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Maret",
+  "total_order": "36",
+  "total_income": "378.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Juli",
+  "total_order": "36",
+  "total_income": "432.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "April",
+  "total_order": "36",
+  "total_income": "450.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Oktober",
+  "total_order": "36",
+  "total_income": "450.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Februari",
+  "total_order": "36",
+  "total_income": "576.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Mei",
+  "total_order": "36",
+  "total_income": "576.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Agustus",
+  "total_order": "36",
+  "total_income": "603.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Mei",
+  "total_order": "36",
+  "total_income": "603.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "month": "Januari",
+  "total_order": "36",
+  "total_income": "603.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Juli",
+  "total_order": "36",
+  "total_income": "729.0"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Januari",
+  "total_order": "36",
+  "total_income": "747.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Juli",
+  "total_order": "37",
+  "total_income": "360.75"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Februari",
+  "total_order": "37",
+  "total_income": "388.5"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Juni",
+  "total_order": "37",
+  "total_income": "610.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Juli",
+  "total_order": "37",
+  "total_income": "619.75"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Januari",
+  "total_order": "37",
+  "total_income": "749.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Desember",
+  "total_order": "37",
+  "total_income": "767.75"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Juni",
+  "total_order": "38",
+  "total_income": "608.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Juli",
+  "total_order": "38",
+  "total_income": "627.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "November",
+  "total_order": "38",
+  "total_income": "627.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Juni",
+  "total_order": "38",
+  "total_income": "636.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Oktober",
+  "total_order": "38",
+  "total_income": "636.5"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "September",
+  "total_order": "38",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Desember",
+  "total_order": "38",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "month": "Desember",
+  "total_order": "38",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Mei",
+  "total_order": "38",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Januari",
+  "total_order": "39",
+  "total_income": "409.5"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Juni",
+  "total_order": "39",
+  "total_income": "409.5"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "month": "Agustus",
+  "total_order": "39",
+  "total_income": "468.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Mei",
+  "total_order": "39",
+  "total_income": "487.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "month": "Februari",
+  "total_order": "39",
+  "total_income": "594.75"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Maret",
+  "total_order": "39",
+  "total_income": "624.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "November",
+  "total_order": "39",
+  "total_income": "643.5"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Agustus",
+  "total_order": "39",
+  "total_income": "643.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Agustus",
+  "total_order": "39",
+  "total_income": "653.25"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Juni",
+  "total_order": "39",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "November",
+  "total_order": "39",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "September",
+  "total_order": "39",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "month": "Agustus",
+  "total_order": "39",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Juli",
+  "total_order": "40",
+  "total_income": "420.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "September",
+  "total_order": "40",
+  "total_income": "420.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "month": "Februari",
+  "total_order": "40",
+  "total_income": "490.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "September",
+  "total_order": "40",
+  "total_income": "640.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "September",
+  "total_order": "40",
+  "total_income": "660.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Januari",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Mei",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Juli",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Agustus",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "April",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Desember",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Agustus",
+  "total_order": "40",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "month": "Februari",
+  "total_order": "41",
+  "total_income": "399.75"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "April",
+  "total_order": "41",
+  "total_income": "430.5"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Agustus",
+  "total_order": "41",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Januari",
+  "total_order": "41",
+  "total_income": "656.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "November",
+  "total_order": "41",
+  "total_income": "850.75"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Juli",
+  "total_order": "41",
+  "total_income": "850.75"
+}, {
+  "pizza_id": "hawaiian_l",
+  "month": "Mei",
+  "total_order": "42",
+  "total_income": "693.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Maret",
+  "total_order": "42",
+  "total_income": "703.5"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Agustus",
+  "total_order": "42",
+  "total_income": "777.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Maret",
+  "total_order": "42",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Juli",
+  "total_order": "42",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Agustus",
+  "total_order": "42",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "November",
+  "total_order": "42",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Mei",
+  "total_order": "43",
+  "total_income": "451.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Agustus",
+  "total_order": "43",
+  "total_income": "688.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Februari",
+  "total_order": "43",
+  "total_income": "771.85"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "Maret",
+  "total_order": "43",
+  "total_income": "892.25"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "month": "April",
+  "total_order": "43",
+  "total_income": "892.25"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "Januari",
+  "total_order": "44",
+  "total_income": "550.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "April",
+  "total_order": "44",
+  "total_income": "704.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Maret",
+  "total_order": "44",
+  "total_income": "737.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "September",
+  "total_order": "44",
+  "total_income": "789.80000000000018"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Januari",
+  "total_order": "44",
+  "total_income": "789.8000000000003"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Oktober",
+  "total_order": "44",
+  "total_income": "913.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Oktober",
+  "total_order": "44",
+  "total_income": "913.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "month": "November",
+  "total_order": "45",
+  "total_income": "562.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "Juli",
+  "total_order": "45",
+  "total_income": "720.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "month": "Februari",
+  "total_order": "45",
+  "total_income": "753.75"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "month": "Mei",
+  "total_order": "45",
+  "total_income": "933.75"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Mei",
+  "total_order": "45",
+  "total_income": "933.75"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "Mei",
+  "total_order": "45",
+  "total_income": "933.75"
+}, {
+  "pizza_id": "hawaiian_s",
+  "month": "Agustus",
+  "total_order": "47",
+  "total_income": "493.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "September",
+  "total_order": "47",
+  "total_income": "787.25"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Maret",
+  "total_order": "47",
+  "total_income": "843.65000000000032"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Juli",
+  "total_order": "47",
+  "total_income": "843.65000000000055"
+}, {
+  "pizza_id": "mexicana_l",
+  "month": "Agustus",
+  "total_order": "47",
+  "total_income": "951.75"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Februari",
+  "total_order": "47",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "month": "April",
+  "total_order": "47",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Januari",
+  "total_order": "47",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Maret",
+  "total_order": "47",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Oktober",
+  "total_order": "48",
+  "total_income": "861.60000000000059"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "September",
+  "total_order": "48",
+  "total_income": "888.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Oktober",
+  "total_order": "48",
+  "total_income": "888.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "April",
+  "total_order": "48",
+  "total_income": "996.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "month": "Januari",
+  "total_order": "49",
+  "total_income": "808.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "month": "Desember",
+  "total_order": "49",
+  "total_income": "820.75"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Agustus",
+  "total_order": "49",
+  "total_income": "879.55000000000052"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "November",
+  "total_order": "49",
+  "total_income": "906.5"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Juni",
+  "total_order": "49",
+  "total_income": "1016.75"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Agustus",
+  "total_order": "50",
+  "total_income": "600.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Desember",
+  "total_order": "50",
+  "total_income": "897.50000000000068"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Maret",
+  "total_order": "50",
+  "total_income": "925.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "April",
+  "total_order": "50",
+  "total_income": "925.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Juni",
+  "total_order": "50",
+  "total_income": "925.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Mei",
+  "total_order": "51",
+  "total_income": "915.45000000000061"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "November",
+  "total_order": "51",
+  "total_income": "915.45000000000073"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "Juli",
+  "total_order": "51",
+  "total_income": "1058.25"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Juni",
+  "total_order": "52",
+  "total_income": "1079.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "month": "November",
+  "total_order": "53",
+  "total_income": "1099.75"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Desember",
+  "total_order": "54",
+  "total_income": "999.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "November",
+  "total_order": "54",
+  "total_income": "1120.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "month": "November",
+  "total_order": "55",
+  "total_income": "880.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "April",
+  "total_order": "56",
+  "total_income": "1005.200000000001"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Januari",
+  "total_order": "56",
+  "total_income": "1162.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Juli",
+  "total_order": "56",
+  "total_income": "1162.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Mei",
+  "total_order": "58",
+  "total_income": "1073.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Februari",
+  "total_order": "60",
+  "total_income": "1110.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Juli",
+  "total_order": "60",
+  "total_income": "1110.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "month": "Agustus",
+  "total_order": "62",
+  "total_income": "1286.5"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Februari",
+  "total_order": "63",
+  "total_income": "756.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "April",
+  "total_order": "63",
+  "total_income": "756.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "month": "Juni",
+  "total_order": "63",
+  "total_income": "1130.8500000000013"
+}, {
+  "pizza_id": "five_cheese_l",
+  "month": "Januari",
+  "total_order": "63",
+  "total_income": "1165.5"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Januari",
+  "total_order": "66",
+  "total_income": "792.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Oktober",
+  "total_order": "68",
+  "total_income": "816.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Mei",
+  "total_order": "72",
+  "total_income": "864.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Juli",
+  "total_order": "72",
+  "total_income": "864.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Maret",
+  "total_order": "73",
+  "total_income": "876.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "September",
+  "total_order": "73",
+  "total_income": "876.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Desember",
+  "total_order": "73",
+  "total_income": "876.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "November",
+  "total_order": "77",
+  "total_income": "924.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "month": "Juni",
+  "total_order": "83",
+  "total_income": "996.0"
+}]

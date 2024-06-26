@@ -1,0 +1,219 @@
+/* TOTAL */
+.total {
+  padding: 20px 20px 0 20px;
+  margin-top: 100px;
+  margin-left: 250px;
+}
+
+.card-total {
+  display: inline-block;
+  width: 310px;
+  height: 100px;
+  margin-right: 20px;
+  background-color: #d56219;
+  color: #fff;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 1;
+  overflow: hidden;
+}
+
+/* FILTER */
+.filter {
+  margin-left: 270px;
+}
+
+#pad {
+  padding-left: 120px;
+}
+
+#pad1 {
+  padding-left: 120px;
+}
+
+.dropbtn {
+  width: 300px;
+  height: 50px;
+  background-color: #ffff;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: 1px solid gainsboro;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover {
+  background-color: #f5f4f4;
+}
+
+/* The search field */
+#myInput #myinput1 {
+  width: 300px;
+  height: 100px;
+  box-sizing: border-box;
+  background-image: url("Search.png");
+  background-position: 10px center;
+  background-repeat: no-repeat;
+  background-size: 300px;
+  font-size: 20px;
+  padding: 14px 20px 12px 50px;
+  border-width: 300px;
+  border-bottom: 10px solid #ddd;
+}
+
+/* The search field when it gets focus/clicked on */
+#myInput:focus {
+  outline: 3px solid #ddd;
+}
+
+#myInput1:focus {
+  outline: 3px solid #ddd;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  /* position: relative; */
+  display: inline-flex;
+  padding: 40px 20px 20px 0px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  width: 300px; /* Sesuaikan lebar dropdown sesuai kebutuhan */
+  max-height: 200px; /* Batasi ketinggian dropdown */
+  overflow-y: auto; /* Aktifkan scroll vertikal jika konten melebihi ketinggian maksimum */
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* .dropdown-content.show {
+    display: block;
+  } */
+
+/* Links inside the dropdown */
+.checkbox-container {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.checkbox-container:hover {
+  background-color: #f1f1f1;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+  display: block;
+}
+
+/* Styling untuk label (nama bulan) */
+label {
+  display: inline-block; /* Mengubah label menjadi inline block agar dapat diatur posisinya */
+  margin-left: 20px;
+  margin-top: 12px; /* Memberikan margin kiri agar ada jarak antara checkbox dan teks */
+}
+
+/* Styling untuk checkbox */
+input[type="checkbox"] {
+  transform: scale(1.5); /* Memperbesar ukuran checkbox */
+  vertical-align: middle; /* Mengatur posisi vertikal ke tengah */
+  margin-left: 25px; /* Memberikan margin kanan agar ada jarak antara checkbox dan teks */
+}
+
+/* Styling untuk area ceklis pada checkbox */
+input[type="checkbox"]::before {
+  content: ""; /* Menambahkan konten kosong */
+  display: inline-block; /* Menampilkan sebagai inline block */
+  width: 15px; /* Lebar kotak ceklis */
+  height: 15px; /* Tinggi kotak ceklis */
+  background-color: rgb(224, 224, 224); /* Warna latar belakang kotak ceklis */
+  /* Mengatur sudut bulat kotak ceklis */
+  margin-right: 5px; /* Memberikan margin kanan agar ada jarak antara checkbox dan teks */
+}
+
+/* Styling untuk ceklis box pada checkbox */
+input[type="checkbox"]:checked::before {
+  content: "\2714"; /* Menambahkan tanda ceklis ✓ */
+  font-size: 15px; /* Ukuran font ceklis */
+  color: #000; /* Warna ceklis hitam */
+  position: relative; /* Mengatur posisi relatif */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Mengatur posisi horizontal ceklis */
+}
+
+/* DIAGRAM */
+.diagram-chart, .diagram {
+  margin-left: 135px;
+  padding: 20px 0 0 0;
+}
+
+.diagram .total-orders {
+  display: flex;
+  width: 650px;
+  margin: 0;
+  padding: 20px 0 40px 20px;
+}
+
+.diagram .total-orders-pizza {
+  width: 950px;
+  margin: 0;
+  padding: 20px 0 40px 20px;
+}
+
+.diagram .total-income {
+  display: flex;
+  width: 650px;
+  padding: 20px 0 40px 20px;
+}
+
+#table-container {
+  margin-right: 30px;
+}
+
+table {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  color: #5e5e5e;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #d56219;
+  color: #1a1a1a;
+}
+
+th, td {
+  border: 1px solid #c0bfbf;
+  text-align: left;
+  padding: 5px 10px;
+}
+
+.diagram .total-pie {
+  display: flex;
+  width: 400px;
+  padding: 20px 0 40px 30px;
+}
+
+.diagram .total-line {
+  width: 700px;
+  padding: 20px 0 40px 20px;
+}
+
+canvas {
+  margin-right: 40px;
+}
+
+span {
+  text-align: center;
+  font-size: 21px;
+  font-weight: bold;
+}

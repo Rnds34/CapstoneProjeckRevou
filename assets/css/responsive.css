@@ -1,0 +1,257 @@
+/* MOBILE */
+@media screen and (max-width: 700px) {
+  .navbar {
+    display: block;
+  }
+
+  .toggle-button {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    display: block;
+    float: right;
+    margin-right: 50px;
+    font-size: 28px; /* Memperbesar ukuran tombol */
+    line-height: 1; /* Menghilangkan ruang tambahan di atas dan bawah tombol */
+    height: 40px; /* Menyesuaikan tinggi tombol */
+    width: 40px; /* Menyesuaikan lebar tombol */
+    text-align: center; /* Mengatur teks ke tengah tombol */
+    margin-top: calc(30px - 20px); /* Memindahkan tombol ke tengah secara vertikal */
+  }
+
+  .sidebar {
+    position: fixed;
+    padding-top: 120px;
+    top: -100%;
+    left: -0; /* sidebar tersembunyi di awal */
+    width: 100%;
+    height: 200px;
+    background: #000;
+    transition: top 0.3s ease;
+  }
+
+  .sidebar ul {
+    width: 100%;
+  }
+
+  .sidebar.active {
+    top: 0; /* sidebar muncul saat aktif */
+  }
+
+  .main-content .content,
+  .main-content .favorit,
+  .main-content .story,
+  .main-content .logo,
+  .footer,
+  .team,
+  .navbar,
+  .menu,
+  section.total,
+  section.filter,
+  section.diagram-chart{
+    margin-left: 0;
+  }
+
+  .content {
+    display: block;
+  }
+
+  .content-text {
+    z-index: 1;
+  }
+
+  .content-image {
+    z-index: 0;
+    text-align: center;
+  }
+
+  .story {
+    display: block;
+  }
+
+  /* dashboard */
+  .total {
+    align-content: center;
+    margin-left: 0;
+  }
+
+  .card-total {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .filter {
+    padding-left: 20px;
+  }
+
+  .diagram-chart .diagram {
+    margin-left: 10px;
+  }
+
+  .diagram-chart .diagram .total-orders-pizza {
+    width: 850px;
+  }
+
+  .diagram-chart .diagram .total-income {
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  #table-container {
+    width: 400px;
+    margin-right: 30px;
+    padding-bottom: 20px;
+  }
+
+  .diagram-chart .diagram .total-pie {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+  }
+
+  /* menu */
+  .card-list-menu {
+    width: 350px;
+    height: 400px;
+  }
+
+  /* team */
+  .card-list-team {
+    width: 300px;
+    height: 370px;
+  }
+
+  /* footer */
+  .footer {
+    width: 100%;
+  }
+
+  .column-4 {
+    display: inline;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .content-text {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* TABLET */
+@media screen and (min-width: 700px) and (max-width: 1024px) {
+  .navbar {
+    display: block;
+  }
+
+  .toggle-button {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    display: block;
+    float: right;
+    margin-right: 50px;
+    font-size: 28px; /* Memperbesar ukuran tombol */
+    line-height: 1; /* Menghilangkan ruang tambahan di atas dan bawah tombol */
+    height: 40px; /* Menyesuaikan tinggi tombol */
+    width: 40px; /* Menyesuaikan lebar tombol */
+    text-align: center; /* Mengatur teks ke tengah tombol */
+    margin-top: calc(30px - 20px); /* Memindahkan tombol ke tengah secara vertikal */
+  }
+
+  .sidebar {
+    position: fixed;
+    padding-top: 120px;
+    top: -100%;
+    left: -0; /* sidebar tersembunyi di awal */
+    width: 100%;
+    height: 200px;
+    background: #000;
+    transition: top 0.3s ease;
+  }
+
+  .sidebar ul {
+    width: 100%;
+  }
+
+  .sidebar.active {
+    top: 0; /* sidebar muncul saat aktif */
+  }
+
+  .main-content .content,
+  .main-content .favorit,
+  .main-content .story,
+  .main-content .logo,
+  .footer,
+  .team,
+  .navbar,
+  .menu,
+  section.total,
+  section.filter,
+  section.diagram-chart{
+    margin-left: 0;
+  }
+
+  .content {
+    display: block;
+  }
+
+  .content-text {
+    z-index: 1;
+  }
+
+  .content-image {
+    z-index: 0;
+    text-align: center;
+  }
+
+  .story {
+    display: block;
+  }
+
+  /* main page */
+  .card {
+    align-content: center;
+  }
+
+  /* dashboard */
+  .card-total {
+    margin-bottom: 10px;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .filter {
+    padding-left: 20px;
+  }
+
+  .diagram-chart .diagram {
+    margin-left: 10px;
+  }
+
+  .diagram-chart .diagram .total-orders-pizza {
+    width: 850px;
+    height: 450px;
+  }
+
+  .diagram-chart .diagram .total-income {
+    width: 570px;
+  }
+
+  /* footer */
+  .column-4 {
+    display: inline;
+    padding-bottom: 10px;
+    padding-left: 0;
+  }
+
+  div.content-text {
+    padding-left: 0; /* Mengubah padding-left menjadi 0 */
+    margin-left: 0;
+  }
+}

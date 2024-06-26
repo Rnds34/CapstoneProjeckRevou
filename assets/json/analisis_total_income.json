@@ -1,0 +1,6535 @@
+[{
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "1286.5"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "1165.5"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "1162.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "1162.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "1130.8500000000013"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "1120.5"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "1110.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "1110.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "1099.75"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "1079.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "1073.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "1058.25"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "1016.75"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "1005.200000000001"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "999.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "996.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "996.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "975.25"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "951.75"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "933.75"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "933.75"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "933.75"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "925.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "925.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "925.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "924.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "915.45000000000084"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "915.45000000000084"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "913.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "913.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "906.5"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "897.5000000000008"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "892.25"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "892.25"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "888.0"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "888.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "880.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "879.55000000000064"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "876.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "876.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "876.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "871.5"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "864.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "864.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "861.60000000000059"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "850.75"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "850.75"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "843.65000000000055"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "843.65000000000043"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "830.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "820.75"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "816.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "thai_ckn_l",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "809.25"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "808.5"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "792.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "789.80000000000041"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "789.80000000000041"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "788.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "787.25"
+}, {
+  "pizza_id": "five_cheese_l",
+  "Pizza_Name": "The Five Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "777.0"
+}, {
+  "pizza_id": "four_cheese_l",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "771.85000000000036"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "767.75"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "756.0"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "756.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "753.75"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "749.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "747.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Juli",
+  "total_income": "739.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Agustus",
+  "total_income": "739.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "737.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "729.0"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "726.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "726.25"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "726.25"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "720.0"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "705.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "704.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "703.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "697.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "697.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "693.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "688.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "688.0"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "684.75"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "684.75"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "676.5"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "668.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "664.0"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "664.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "660.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "656.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "653.25"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "648.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "643.5"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "643.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "643.25"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "640.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "636.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "636.5"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "627.75"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "627.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "627.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "624.0"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "bbq_ckn_l",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "622.5"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "619.75"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "615.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Oktober",
+  "total_income": "612.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "610.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "608.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "603.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "603.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "603.0"
+}, {
+  "pizza_id": "spicy_ital_l",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "601.75"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "601.75"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "601.75"
+}, {
+  "pizza_id": "big_meat_s",
+  "Pizza_Name": "The Big Meat Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "600.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "594.75"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "594.5"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "591.24999999999977"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "586.25"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "586.25"
+}, {
+  "pizza_id": "southw_ckn_l",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "581.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "577.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "576.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "576.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "574.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "569.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "569.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "569.5"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "567.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "567.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "567.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "562.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Januari",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "September",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Desember",
+  "total_income": "561.0"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "560.25"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "553.5"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "552.75"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "552.75"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "552.75"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "550.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "544.5"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "544.5"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "544.0"
+}, {
+  "pizza_id": "classic_dlx_m",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "544.0"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "539.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "539.5"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "528.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "528.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "528.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "526.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "526.5"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "520.29999999999984"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "520.29999999999984"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "519.25"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "519.25"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "518.75"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "512.5"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "511.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "506.25"
+}, {
+  "pizza_id": "cali_ckn_l",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "498.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "498.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "496.64999999999981"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "495.0"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "495.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "493.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "492.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "492.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "490.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "488.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "488.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "487.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "486.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "486.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "485.75"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Februari",
+  "total_income": "484.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Maret",
+  "total_income": "484.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Mei",
+  "total_income": "484.5"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "480.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "478.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "478.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "477.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "477.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "477.25"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "472.99999999999983"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "472.75"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "cali_ckn_m",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "bbq_ckn_m",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "469.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "468.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "465.75"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "465.75"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "465.75"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "hawaiian_l",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "462.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "April",
+  "total_income": "459.0"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "November",
+  "total_income": "459.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "457.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "456.5"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "456.5"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "455.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "452.25"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "451.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "451.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "450.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "450.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "449.34999999999985"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "448.0"
+}, {
+  "pizza_id": "mexicana_l",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "ital_supr_m",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "445.5"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "435.75"
+}, {
+  "pizza_id": "ital_supr_l",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "435.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "435.75"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "435.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "435.5"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "432.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "432.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "432.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "430.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "430.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "430.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "428.75"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "427.0"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "425.25"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "425.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "422.5"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "420.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "420.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "418.75"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "416.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "416.0"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "415.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "415.0"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "415.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "413.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "413.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "413.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "412.5"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "412.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "412.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "411.75"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "410.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "410.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "409.5"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "409.5"
+}, {
+  "pizza_id": "the_greek_xl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XL",
+  "month": "Juni",
+  "total_income": "408.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "406.25"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "406.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "406.25"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "405.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "404.25"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "402.0"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "400.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "400.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "399.75"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "396.5"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "396.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "394.25"
+}, {
+  "pizza_id": "peppr_salami_l",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "394.25"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "394.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "390.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "390.0"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "389.5"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "388.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "385.25"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "385.25"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "385.25"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "384.75"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "384.75"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "384.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "378.4"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "378.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "373.75"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "373.75"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "373.5"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "369.0"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "369.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "369.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "368.75"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "368.75"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "368.75"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "368.5"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "368.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "367.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "367.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "367.5"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "366.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "364.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "364.5"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "364.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "363.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "363.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "360.75"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "360.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "360.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "357.5"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "357.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "357.0"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "354.74999999999994"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "354.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "352.75"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "352.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "352.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "352.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "351.75"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "350.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "348.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "346.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "346.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "346.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "344.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "341.25"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "341.25"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "341.25"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "336.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "335.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "332.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "332.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "332.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "331.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "331.25"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "331.09999999999997"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "330.0"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "328.0"
+}, {
+  "pizza_id": "ital_cpcllo_l",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "328.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "325.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "325.0"
+}, {
+  "pizza_id": "sicilian_l",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "324.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "320.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "318.75"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "318.75"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "318.5"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "318.5"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "318.25"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "313.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "313.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "312.5"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "312.5"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "312.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "312.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "311.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "308.75"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "308.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "307.5"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "307.45"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "307.45"
+}, {
+  "pizza_id": "brie_carre_s",
+  "Pizza_Name": "The Brie Carre Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "307.44999999999993"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "305.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "304.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "303.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "301.5"
+}, {
+  "pizza_id": "pepperoni_m",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "300.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "297.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "297.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "297.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "297.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "295.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "295.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "295.0"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "294.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "293.25"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "292.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "291.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "290.5"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "290.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "288.0"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "287.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "284.75"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "284.75"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "283.5"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "282.75"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "282.75"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "281.75"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "281.75"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "280.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "280.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "280.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "278.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "276.25"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "276.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "275.5"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "275.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "275.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "275.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "274.5"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "273.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "273.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "272.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "269.75"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "ckn_alfredo_m",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "268.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "267.75"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "napolitana_l",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "266.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "265.0"
+}, {
+  "pizza_id": "classic_dlx_s",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "264.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "263.25"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "263.25"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "263.25"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "260.0"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "260.0"
+}, {
+  "pizza_id": "pepperoni_l",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "259.25"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "256.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "256.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "256.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "255.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "253.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "hawaiian_s",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "252.0"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "250.75"
+}, {
+  "pizza_id": "four_cheese_m",
+  "Pizza_Name": "The Four Cheese Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "250.75"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "250.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "250.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "249.0"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "247.5"
+}, {
+  "pizza_id": "classic_dlx_l",
+  "Pizza_Name": "The Classic Deluxe Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "246.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "246.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "245.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "245.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "245.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "243.75"
+}, {
+  "pizza_id": "calabrese_m",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "243.75"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "243.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "242.25"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "242.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "242.25"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "242.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "240.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "238.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "238.5"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "237.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "237.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "234.5"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "234.5"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "234.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "232.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "231.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "229.5"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "229.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "228.25"
+}, {
+  "pizza_id": "prsc_argla_l",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "228.25"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "228.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "228.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "227.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "227.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "227.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "225.25"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "225.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "225.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "225.0"
+}, {
+  "pizza_id": "spinach_fet_m",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "veggie_veg_m",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "224.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "222.75"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "222.75"
+}, {
+  "pizza_id": "sicilian_s",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "220.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "217.75"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "217.5"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "217.5"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "216.75"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "216.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "214.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "214.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "214.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "212.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "212.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "210.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "209.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "208.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "soppressata_l",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "207.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "205.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "204.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "203.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "203.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "203.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "mediterraneo_l",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "202.5"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "thai_ckn_m",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "201.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "200.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "198.0"
+}, {
+  "pizza_id": "sicilian_m",
+  "Pizza_Name": "The Sicilian Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "195.0"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "192.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "192.5"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "192.0"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "191.25"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "188.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "187.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "187.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "187.5"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "187.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "ckn_pesto_l",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "186.75"
+}, {
+  "pizza_id": "southw_ckn_m",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "184.25"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "182.25"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "181.5"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "180.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "178.5"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "178.5"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "178.5"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "ital_cpcllo_m",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "176.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "175.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "174.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "174.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "172.25"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "veggie_veg_s",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "168.0"
+}, {
+  "pizza_id": "ital_veggie_m",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "167.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "167.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "166.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "165.75"
+}, {
+  "pizza_id": "pep_msh_pep_s",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "peppr_salami_m",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "165.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "164.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "164.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "162.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "162.0"
+}, {
+  "pizza_id": "spinach_fet_l",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "162.0"
+}, {
+  "pizza_id": "veggie_veg_l",
+  "Pizza_Name": "The Vegetables + Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "162.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "napolitana_m",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "160.0"
+}, {
+  "pizza_id": "pep_msh_pep_m",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "159.5"
+}, {
+  "pizza_id": "pep_msh_pep_l",
+  "Pizza_Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "157.5"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "pepperoni_s",
+  "Pizza_Name": "The Pepperoni Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "156.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "thai_ckn_s",
+  "Pizza_Name": "The Thai Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "153.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "150.75"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "prsc_argla_s",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "150.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "148.5"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "147.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "147.0"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "145.75"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "145.25"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "spinach_fet_s",
+  "Pizza_Name": "The Spinach and Feta Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "April",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "144.0"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "143.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "143.5"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "141.75"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "141.75"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "140.25"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "137.5"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "132.5"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "green_garden_s",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spicy_ital_m",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "napolitana_s",
+  "Pizza_Name": "The Napolitana Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "132.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "mexicana_m",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "128.0"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "127.5"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "127.5"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "126.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "125.0"
+}, {
+  "pizza_id": "spinach_supr_l",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "124.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "123.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "121.5"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "120.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "117.25"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "115.5"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "115.5"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "114.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "114.75"
+}, {
+  "pizza_id": "cali_ckn_s",
+  "Pizza_Name": "The California Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "114.75"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "soppressata_s",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "112.5"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "112.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "Mei",
+  "total_income": "112.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "112.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "108.0"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Agustus",
+  "total_income": "107.85000000000001"
+}, {
+  "pizza_id": "hawaiian_m",
+  "Pizza_Name": "The Hawaiian Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "106.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "105.0"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "103.75"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "103.75"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "102.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Mei",
+  "total_income": "102.5"
+}, {
+  "pizza_id": "the_greek_l",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "102.5"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "southw_ckn_s",
+  "Pizza_Name": "The Southwest Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "102.0"
+}, {
+  "pizza_id": "calabrese_l",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "101.25"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "101.25"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "100.5"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Agustus",
+  "total_income": "100.5"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "spicy_ital_s",
+  "Pizza_Name": "The Spicy Italian Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "100.0"
+}, {
+  "pizza_id": "soppressata_m",
+  "Pizza_Name": "The Soppressata Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "99.0"
+}, {
+  "pizza_id": "spinach_supr_m",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "99.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Desember",
+  "total_income": "99.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Juli",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "the_greek_m",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "M",
+  "month": "November",
+  "total_income": "96.0"
+}, {
+  "pizza_id": "bbq_ckn_s",
+  "Pizza_Name": "The Barbecue Chicken Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "89.25"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "89.25"
+}, {
+  "pizza_id": "ckn_pesto_s",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "89.25"
+}, {
+  "pizza_id": "spin_pesto_s",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "87.5"
+}, {
+  "pizza_id": "spinach_supr_s",
+  "Pizza_Name": "The Spinach Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "87.5"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "85.75"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Maret",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "the_greek_s",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "ital_veggie_l",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "84.0"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Januari",
+  "total_income": "83.75"
+}, {
+  "pizza_id": "ckn_alfredo_l",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "83.0"
+}, {
+  "pizza_id": "spin_pesto_m",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "September",
+  "total_income": "82.5"
+}, {
+  "pizza_id": "prsc_argla_m",
+  "Pizza_Name": "The Prosciutto and Arugula Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "82.5"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Juni",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Juli",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "November",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Desember",
+  "total_income": "81.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Juni",
+  "total_income": "80.0"
+}, {
+  "pizza_id": "green_garden_m",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "M",
+  "month": "Oktober",
+  "total_income": "80.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "76.5"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "73.5"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "72.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "72.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "72.0"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "April",
+  "total_income": "71.9"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Juni",
+  "total_income": "71.9"
+}, {
+  "pizza_id": "ckn_pesto_m",
+  "Pizza_Name": "The Chicken Pesto Pizza",
+  "Pizza_Size": "M",
+  "month": "Februari",
+  "total_income": "67.0"
+}, {
+  "pizza_id": "mediterraneo_m",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "M",
+  "month": "Maret",
+  "total_income": "64.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "peppr_salami_s",
+  "Pizza_Name": "The Pepper Salami Pizza",
+  "Pizza_Size": "S",
+  "month": "November",
+  "total_income": "62.5"
+}, {
+  "pizza_id": "spin_pesto_l",
+  "Pizza_Name": "The Spinach Pesto Pizza",
+  "Pizza_Size": "L",
+  "month": "September",
+  "total_income": "62.25"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "61.25"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "61.25"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Januari",
+  "total_income": "60.75"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Februari",
+  "total_income": "60.75"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "April",
+  "total_income": "60.75"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "60.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "60.0"
+}, {
+  "pizza_id": "ital_cpcllo_s",
+  "Pizza_Name": "The Italian Capocollo Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "60.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ital_veggie_s",
+  "Pizza_Name": "The Italian Vegetables Pizza",
+  "Pizza_Size": "S",
+  "month": "Desember",
+  "total_income": "51.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "50.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "50.0"
+}, {
+  "pizza_id": "ital_supr_s",
+  "Pizza_Name": "The Italian Supreme Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "50.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "49.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "49.0"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "49.0"
+}, {
+  "pizza_id": "mediterraneo_s",
+  "Pizza_Name": "The Mediterranean Pizza",
+  "Pizza_Size": "S",
+  "month": "Januari",
+  "total_income": "48.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "48.0"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Agustus",
+  "total_income": "40.5"
+}, {
+  "pizza_id": "green_garden_l",
+  "Pizza_Name": "The Green Garden Pizza",
+  "Pizza_Size": "L",
+  "month": "Oktober",
+  "total_income": "40.5"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Maret",
+  "total_income": "38.25"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "38.25"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "April",
+  "total_income": "36.75"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "36.75"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "36.75"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "36.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Agustus",
+  "total_income": "36.0"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "Oktober",
+  "total_income": "36.0"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Februari",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Maret",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Mei",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Juli",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "September",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Oktober",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "November",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "the_greek_xxl",
+  "Pizza_Name": "The Greek Pizza",
+  "Pizza_Size": "XXL",
+  "month": "Desember",
+  "total_income": "35.95"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "25.5"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Juli",
+  "total_income": "25.5"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Februari",
+  "total_income": "24.5"
+}, {
+  "pizza_id": "mexicana_s",
+  "Pizza_Name": "The Mexicana Pizza",
+  "Pizza_Size": "S",
+  "month": "September",
+  "total_income": "24.0"
+}, {
+  "pizza_id": "ckn_alfredo_s",
+  "Pizza_Name": "The Chicken Alfredo Pizza",
+  "Pizza_Size": "S",
+  "month": "Juni",
+  "total_income": "12.75"
+}, {
+  "pizza_id": "calabrese_s",
+  "Pizza_Name": "The Calabrese Pizza",
+  "Pizza_Size": "S",
+  "month": "Mei",
+  "total_income": "12.25"
+}]

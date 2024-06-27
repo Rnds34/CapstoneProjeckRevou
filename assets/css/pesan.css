@@ -1,0 +1,48 @@
+#button {
+  background-color: #d56219;
+  color: #fff;
+}
+
+.footer {
+  column-count: 4;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fdb283;
+}
+
+#buttonkembali {
+  border: 1px solid #d56219;
+  background-color: transparent;
+  color: #d56219;
+}
+
+#buttonkembali:hover{
+  border: 1px solid #d56219;
+  background-color: #d56219;
+  color: #fff;
+}
+
+/* .column {
+  float: left;
+  padding: 10px;
+  height: 400px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} */
+
+footer {
+  margin-top: 50px;
+  background-color: #d56219;
+  color: #fff;
+}
